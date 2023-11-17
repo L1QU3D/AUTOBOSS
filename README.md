@@ -1,6 +1,7 @@
 # AUTOBOSS - Under Development
 
 AUTOBOSS is currently in active development. While it's not ready for production use, here's what's in progress:
+feel free to contribute on this project
 
   ______      ______  __        __        ________  ________  
   /  __  \\    /  __  \\/  |      /  |      /  __   /  /  __   /  
