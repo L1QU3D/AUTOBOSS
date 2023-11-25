@@ -2,6 +2,8 @@ import getpass
 import os
 import time
 
+# import selenium
+
 from selenium import webdriver
 
 #  launch Logo.py and it has the display the welcome message
@@ -9,7 +11,7 @@ os.system("python3 Logo.py")
 
 # Define your starting text and content
 starting_text = "Enter the URL of the website to be automated: "
-content = "http://:"
+content = "http://github.com:"
 
 # Use the print function to print the combined text and content
 
